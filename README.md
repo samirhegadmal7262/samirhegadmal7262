@@ -37,7 +37,7 @@ Hi, I'm **Samir Hegadmal**. I'm an AI/ML engineer out of Nashik, India, building
 intersection of computer vision, NLP, and LLM integration — with hands-on Python backend
 work (FastAPI, Flask) tying it all together.
 
-- Currently building **[SnapClass](https://github.com/samirhegadmal7262/snapclass-main)**, a dual-biometric identity verification pipeline (face + voice)
+- Built **[SnapClass](https://github.com/samirhegadmal7262/snapclass-main)**, a dual-biometric identity verification pipeline (face + voice)
 - Deepening **RAG, LangChain, and vector databases (FAISS, Pinecone)** — moving from ML fundamentals into production GenAI
 - 4 internships across AI/NLP, Python, and full-stack development
 - Fun fact: **I ranked #16 of all interns in my NLP internship cohort for technical delivery**
