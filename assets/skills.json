@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Tune these yourself - this is a starting estimate based on your resume/master doc, not a measurement.",
+  "axes": [
+    { "label": "Python",        "value": 82 },
+    { "label": "ML / NLP",      "value": 70 },
+    { "label": "Computer Vision","value": 68 },
+    { "label": "LLM / GenAI",   "value": 60 },
+    { "label": "Backend APIs",  "value": 75 },
+    { "label": "Databases",     "value": 65 },
+    { "label": "DSA",           "value": 55 }
+  ]
+}

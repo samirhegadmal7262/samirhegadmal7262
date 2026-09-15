@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "snapclass-main",
+      "description": "Dual-biometric identity verification - face_recognition/dlib (ResNet-34) + Resemblyzer voice embeddings - cutting manual roll-call down to sub-500ms verification."
+    },
+    {
+      "repo": "ai-resume-ats",
+      "description": "AI resume-analysis platform: FastAPI + Streamlit, spaCy/Sentence-Transformer semantic JD matching, and a Groq (Llama 3) layer for real-time LLM feedback."
+    },
+    {
+      "repo": "fake-news-detector-pro",
+      "description": "NLP misinformation classifier - TF-IDF + Scikit-learn - 98.92% accuracy across 8,980 test samples, with OCR support for screenshot input."
+    },
+    {
+      "repo": "eventico-platform-architecture",
+      "description": "MERN event-management platform built with a 4-person team; my slice was the React category-navigation components and REST API integrations."
+    }
+  ]
+}
